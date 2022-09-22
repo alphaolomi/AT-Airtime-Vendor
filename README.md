@@ -1,6 +1,6 @@
 # AT-Airtime-Vendor
 
-<a href="https://heroku.com/deploy?template=https://github.com/DaggieBlanqx/AT-Airtime-Vendor">
+<a href="https://heroku.com/deploy?template=https://github.com/alphaolomi/AT-Airtime-Vendor">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
@@ -28,7 +28,7 @@ $ heroku open
 
 or
 
-<a href="https://heroku.com/deploy?template=https://github.com/DaggieBlanqx/AT-Airtime-Vendor">
+<a href="https://heroku.com/deploy?template=https://github.com/alphaolomi/AT-Airtime-Vendor">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
